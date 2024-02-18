@@ -35,7 +35,7 @@ function Formulario({setUser}) {
                 />
                 <button>Iniciar sesion</button>
             </form>
-            {error && <p>Todos los campos son obligatorios</p>}
+            {error && <p>Todos los campos son obligatorios en esta aplicación.</p>}
         </section>
     )
 }
